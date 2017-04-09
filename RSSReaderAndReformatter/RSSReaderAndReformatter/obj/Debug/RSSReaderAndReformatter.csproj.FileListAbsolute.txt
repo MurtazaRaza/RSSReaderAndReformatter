@@ -1,0 +1,8 @@
+c:\users\admin\documents\visual studio 2015\Projects\RSSReaderAndReformatter\RSSReaderAndReformatter\bin\Debug\RSSReaderAndReformatter.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\RSSReaderAndReformatter\RSSReaderAndReformatter\bin\Debug\RSSReaderAndReformatter.exe
+c:\users\admin\documents\visual studio 2015\Projects\RSSReaderAndReformatter\RSSReaderAndReformatter\bin\Debug\RSSReaderAndReformatter.pdb
+c:\users\admin\documents\visual studio 2015\Projects\RSSReaderAndReformatter\RSSReaderAndReformatter\obj\Debug\RSSReaderAndReformatter.exe
+c:\users\admin\documents\visual studio 2015\Projects\RSSReaderAndReformatter\RSSReaderAndReformatter\obj\Debug\RSSReaderAndReformatter.pdb
+c:\users\admin\documents\visual studio 2015\Projects\RSSReaderAndReformatter\RSSReaderAndReformatter\obj\Debug\RSSReaderAndReformatter.ProjectInstaller.resources
+c:\users\admin\documents\visual studio 2015\Projects\RSSReaderAndReformatter\RSSReaderAndReformatter\obj\Debug\RSSReaderAndReformatter.csproj.GenerateResource.Cache
+C:\Users\Admin\documents\visual studio 2015\Projects\RSSReaderAndReformatter\RSSReaderAndReformatter\obj\Debug\RSSReaderAndReformatter.csprojResolveAssemblyReference.cache
